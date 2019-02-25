@@ -1,0 +1,37 @@
+PODS:
+  - Reusable (4.0.5):
+    - Reusable/Storyboard (= 4.0.5)
+    - Reusable/View (= 4.0.5)
+  - Reusable/Storyboard (4.0.5)
+  - Reusable/View (4.0.5)
+  - RxAtomic (4.4.1)
+  - RxCocoa (4.4.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.1):
+    - RxAtomic (~> 4.4)
+  - XCDYouTubeKit (2.7.3)
+
+DEPENDENCIES:
+  - Reusable
+  - RxCocoa
+  - RxSwift
+  - XCDYouTubeKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Reusable
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Reusable: 188be1a54ac0691bc66e5bb24ec6eb91971b315b
+  RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
+  RxCocoa: 2f35a76bf8887872e28a1914112395b11b8e0e64
+  RxSwift: 92fcf68dfef21f3e2ab1965363d9e7b3d787597e
+  XCDYouTubeKit: 3f4fd3eb3ed494a46a8f007b91315eed6dd6df1f
+
+PODFILE CHECKSUM: de2af7f5423c1644a532ecb12ec74524db7f04bc
+
+COCOAPODS: 1.5.3
